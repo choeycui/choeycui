@@ -1,4 +1,4 @@
-# Yu Cui
+# Nothing
 
 **Ex-NIQ data scientist → builder.** I build around AI agents, infrastructure, information systems, automation, and open networks — and write along the way.
 
